@@ -1,0 +1,11 @@
+# Generated model files
+similarity.pkl
+movie_dict.pkl
+
+# Virtual environments
+movie/
+venv/
+.venv/
+
+__pycache__/
+*.pyc
